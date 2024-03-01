@@ -25,7 +25,7 @@ export const MainPage: React.FC = () => {
             <div className='card'>
                 <button onClick={() => setCount((count) => count + 1)}>count is {count}</button>
                 <p>
-                    Edit <code>src/pages/main-page.tsx</code> and save to test HMR
+                    Edit <code>src/pages/main-page.tsx</code> and save to test HMR Ivan6813
                 </p>
             </div>
             <p className='read-the-docs'>Click on the Vite and React logos to learn more</p>
